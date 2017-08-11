@@ -1,17 +1,17 @@
 <html>
 <head>
 <style>
-	    body{
-		      background-image:url("1.jpg");
+body{
+	background-image:url("1.jpg");
 		      
-            }
-			h1{
-			   background-color:rgb(123,165,210);
-		                height:70;
-		         text-align:center;
-					font-size:38px;
-					transform:skewy(80);
-			}
+   }
+h1{
+background-color:rgb(123,165,210); 
+	height:70;
+	text-align:center;
+	font-size:38px;
+transform:skewy(80);
+}
 
 	</style></head>
 <body>
